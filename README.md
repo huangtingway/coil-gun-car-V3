@@ -17,4 +17,8 @@ A remote control car with coil gun which can control out of sight.
 <img src="https://github.com/huangtingway/coil-gun-car-V3/assets/92153423/cd204f72-cee4-4a56-b7f8-79601ac52f9d" alt="car back " width="49%">
 
 ## elereic digram
-<img src="https://github.com/huangtingway/coil-gun-car-V3/assets/92153423/6f2ed4de-807a-4873-99a3-30468fecb2ac" alt="elereic digram">
+<img src="https://github.com/huangtingway/coil-gun-car-V3/assets/92153423/6f2ed4de-807a-4873-99a3-30468fecb2ac" alt="elereic digram">  
+
+## How to use
+<img src="https://github.com/huangtingway/coil-gun-car-V3/assets/92153423/84002470-da8c-4119-af18-2b8f5c56138f" alt="How to use">  
+<img src="https://github.com/huangtingway/coil-gun-car-V3/assets/92153423/68bda0ab-e81c-467a-9745-d0d78dd3c249" alt="How to use">  
